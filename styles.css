@@ -2,3 +2,12 @@ body {
     background-color:blue;
     color: yellow;
 }
+
+#first {
+    color: lime;
+    font-weight: bold;
+}
+
+li.personal {
+    color:red;
+}
